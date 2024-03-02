@@ -1,0 +1,3 @@
+- The passphrase is used to generate a stronger key instead of directly inputting a numeric key.
+- The generate_key function utilizes a cryptographic hash function (SHA-256) to derive a key from the passphrase.
+- Ready to be runned in pyinstaller and generate working Windows program
